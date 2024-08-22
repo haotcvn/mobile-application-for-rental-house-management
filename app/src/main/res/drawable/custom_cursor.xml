@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:width="2dp" /> <!-- Độ dày của con trỏ -->
+    <solid android:color="?attr/colorPrimary" /> <!-- Màu của con trỏ -->
+</shape>

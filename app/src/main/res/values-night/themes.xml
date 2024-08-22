@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HomeManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <!-- Primary brand color-->
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorPrimaryVariant">@color/dark_grey</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary brand color-->
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/orange_second</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- StatusBar Color -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+        <item name="colorAccent">?attr/colorPrimaryVariant</item>
+
+        <!--color of thumb when inactive-->
+        <item name="colorSwitchThumbNormal">@color/sienna</item>
+
+
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

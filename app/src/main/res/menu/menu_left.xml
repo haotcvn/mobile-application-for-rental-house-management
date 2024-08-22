@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!--<group android:checkableBehavior="single">
+
+    </group>-->
+    <item
+        android:id="@+id/nav_left_notifications"
+        android:icon="@drawable/ic_notifications"
+        android:title="@string/notifications" />
+    <item
+        android:id="@+id/nav_left_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_left_statistical"
+        android:icon="@drawable/ic_pie_chart"
+        android:title="@string/revenue" />
+
+    <!-- Item setting -->
+    <item
+        android:id="@+id/nav_left_setting"
+        android:title="@string/setting">
+        <menu>
+            <item
+                android:id="@+id/nav_left_dark_mode"
+                android:icon="@drawable/ic_dark_mode"
+                android:title="@string/dark_mode"
+                app:actionLayout="@layout/item_switch"/>
+            <item
+                android:id="@+id/nav_left_language"
+                android:icon="@drawable/ic_language"
+                android:title="@string/language" />
+            <item
+                android:id="@+id/nav_left_exit"
+                android:icon="@drawable/ic_exit_to_app"
+                android:title="@string/exit" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_left_account"
+        android:title="@string/account">
+        <menu>
+            <item
+                android:id="@+id/nav_left_profile"
+                android:icon="@drawable/ic_account_circle"
+                android:title="@string/profile" />
+            <item
+                android:id="@+id/nav_left_change_password"
+                android:icon="@drawable/ic_change_password"
+                android:title="Thay đổi mật khẩu" />
+            <item
+                android:id="@+id/nav_left_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+
+</menu>

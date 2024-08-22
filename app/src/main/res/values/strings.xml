@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">TCHome</string>
+    <string name="app_version">Phiên bản: %1$s</string>
+    <string name="notifications">Thông báo</string>
+    <string name="building">Toà nhà</string>
+    <string name="home">Trang chủ</string>
+    <string name="register">Đăng ký</string>
+    <string name="setting">Cài đặt</string>
+    <string name="dark_mode">Chế độ tối</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="exit">Thoát</string>
+    <string name="account">Tài khoản</string>
+    <string name="profile">Cá nhân</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="login">Đăng nhập</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="vietnam">Việt Nam</string>
+    <string name="add_address">Thêm địa chỉ</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="statistical">Thống kê</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="describe">Mô tả</string>
+    <string name="home_manager">Quản lý toà nhà</string>
+    <string name="renter">Người thuê</string>
+    <string name="application_information">Thông tin ứng dụng</string>
+    <string name="do_not_have_an_account">Bạn chưa có tài khoản?</string>
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="email_address">Địa chỉ email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="square_meter_symbol">m²</string>
+    <string name="no_data">Dữ liệu trống</string>
+    <string name="forgot_password">Quên mật khẩu</string>
+    <string name="privacy_policy">Chính sách quyền riêng tư</string>
+    <string name="revenue">Doanh thu</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="delete">Xoá</string>
+    <string name="payment">Thanh toán</string>
+    <string name="update">Cập nhật</string>
+    <string-array name="province_city">
+        <item>An Giang</item>
+        <item>Bà Rịa-Vũng Tàu</item>
+        <item>Bạc Liêu</item>
+        <item>Bắc Kạn</item>
+        <item>Bắc Giang</item>
+        <item>Bắc Ninh</item>
+        <item>Bến Tre</item>
+        <item>Bình Dương</item>
+        <item>Bình Định</item>
+        <item>Bình Phước</item>
+        <item>Bình Thuận</item>
+        <item>Cà Mau</item>
+        <item>Cao Bằng</item>
+        <item>Cần Thơ (TP)</item>
+        <item>Đà Nẵng (TP)</item>
+        <item>Đắk Lắk</item>
+        <item>Đắk Nông</item>
+        <item>Điện Biên</item>
+        <item>Đồng Nai</item>
+        <item>Đồng Tháp</item>
+        <item>Gia Lai</item>
+        <item>Hà Giang</item>
+        <item>Hà Nam</item>
+        <item>Hà Nội (TP)</item>
+        <item>Hà Tây</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hải Phòng (TP)</item>
+        <item>Hòa Bình</item>
+        <item>Hồ Chí Minh (TP)</item>
+        <item>Hậu Giang</item>
+        <item>Hưng Yên</item>
+        <item>Khánh Hòa</item>
+        <item>Kiên Giang</item>
+        <item>Kon Tum</item>
+        <item>Lai Châu</item>
+        <item>Lào Cai</item>
+        <item>Lạng Sơn</item>
+        <item>Lâm Đồng</item>
+        <item>Long An</item>
+        <item>Nam Định</item>
+        <item>Nghệ An</item>
+        <item>Ninh Bình</item>
+        <item>Ninh Thuận</item>
+        <item>Phú Thọ</item>
+        <item>Phú Yên</item>
+        <item>Quảng Bình</item>
+        <item>Quảng Nam</item>
+        <item>Quảng Ngãi</item>
+        <item>Quảng Ninh</item>
+        <item>Quảng Trị</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thừa Thiên - Huế</item>
+        <item>Tiền Giang</item>
+        <item>Trà Vinh</item>
+        <item>Tuyên Quang</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Phúc</item>
+        <item>Yên Bái</item>
+    </string-array>
+</resources>
